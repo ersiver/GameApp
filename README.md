@@ -1,13 +1,12 @@
-# Red Little Hood Game
-A simple 2-levels Android game written in Java using the libGDX. Tap to jump, collect berries and avoid wolves!
+# sample-game
++ A simple 2-levels Android game written in Java using the <b>libGDX</b>. 
 
-#### Preview
-![1](https://user-images.githubusercontent.com/58771510/70627699-930e3580-1c1e-11ea-8701-0ae9a63d122d.JPG) ![2](https://user-images.githubusercontent.com/58771510/70627702-93a6cc00-1c1e-11ea-8a63-9f88728a7095.JPG)
-![3](https://user-images.githubusercontent.com/58771510/70627703-93a6cc00-1c1e-11ea-8c91-0daf98201c7e.JPG) ![4](https://user-images.githubusercontent.com/58771510/70627704-93a6cc00-1c1e-11ea-854e-0d2da7b918fb.JPG)
-![5](https://user-images.githubusercontent.com/58771510/70627705-93a6cc00-1c1e-11ea-909e-c1393184ef4e.JPG) ![6](https://user-images.githubusercontent.com/58771510/70627706-943f6280-1c1e-11ea-9c91-fb7fad38d536.JPG)
++ Tap to jump, collect berries and avoid wolves!
 
-#### Resources used:
+# Preview
+![20200618_150500](https://user-images.githubusercontent.com/58771510/85030719-b4c01a80-b175-11ea-909d-621dc0f9eb8a.gif)
+
+![20200618_150315](https://user-images.githubusercontent.com/58771510/85030692-ad990c80-b175-11ea-8fc3-c6e0dc93341a.gif)
+
+# Resources used:
 Little Red Riding Hood Sprite Character (Licensor's Author: PrimaDev)
-
-#### Video demo: 
-https://www.youtube.com/watch?v=3OpPpbAekBI
